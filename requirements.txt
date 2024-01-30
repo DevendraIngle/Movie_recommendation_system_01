@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Install the project in editable mode
+-e .
+
+# Streamlit and its dependencies
+streamlit>=1.30.0,<2.0.0
+pandas>=1.5.3,<2.0.0
